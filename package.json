@@ -5,16 +5,18 @@
   "main": "index.js",
   "dependencies": {
     "googleapis": "^0.7.0",
-    "soap": "0.5.0"
+    "soap": "^0.9.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ShinyAds",
-  "contributors":[{
-    "name": "Andre de Souza",
-    "email": "ajsouz@gmail.com"
-    }],
+  "contributors": [
+    {
+      "name": "Andre de Souza",
+      "email": "ajsouz@gmail.com"
+    }
+  ],
   "license": "ISC",
   "repository": {
     "type": "git",
